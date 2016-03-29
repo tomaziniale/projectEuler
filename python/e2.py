@@ -1,4 +1,4 @@
-sloop = 1; 
+loop = 1; 
 sum = 0; 
 fib = 1; 
 fib1 = 1; 
