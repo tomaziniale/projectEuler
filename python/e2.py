@@ -1,4 +1,6 @@
-sloop = 1; 
+# By considering the terms in the Fibonacci sequence whose values do not exceed four million,
+# find the sum of the even-valued terms.
+loop = 1; 
 sum = 0; 
 fib = 1; 
 fib1 = 1; 
@@ -14,4 +16,4 @@ while loop < 4000000:
 	if fib%2 == 0: 
 		sum += fib; 
  
-print('fim. ' + str(sum)); 
+print('fim. ' + str(sum));
