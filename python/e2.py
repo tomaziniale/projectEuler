@@ -14,4 +14,4 @@ while loop < 4000000:
 	if fib%2 == 0: 
 		sum += fib; 
  
-print('fim. ' + str(sum)); 
+print('fim. ' + str(sum));
